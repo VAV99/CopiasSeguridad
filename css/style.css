@@ -4,17 +4,7 @@ body {
     margin:0;
     padding:0;
 }
-.example {
-    background:#fff url(../images/tech.jpg);
-    width:770px;
-    height:570px;
-    border:1px #000 solid;
-    margin:20px auto;
-    padding:15px;
-    border-radius:3px;
-    -moz-border-radius:3px;
-    -webkit-border-radius:3px;
-}
+
 
 
 /* main menu styles */
